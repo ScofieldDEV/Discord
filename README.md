@@ -11,12 +11,6 @@ Bot Version - `Stable v1.0.0`
 
 **If you have questions feel free to add me on Discord**
 
-Changelog
----------
-
-+ **Saturday, 21 July 2018:** _Added the ''hug'' command_
-+ **Sunday, 22 July 2018:** _Added & re-edit the ''joke'' command_
-
 Some Commands the Bot have:
 ---------------------------
 
