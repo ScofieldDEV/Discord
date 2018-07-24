@@ -11,6 +11,19 @@ Bot Version - `Stable v1.0.0`
 
 **If you have questions feel free to add me on Discord**
 
+Lola Bot | Changelog
+--------------------
+
++ **Saturday, 21 July 2018:** _Added the ''hug'' command_
++ **Sunday, 22 July 2018:** _Added & re-edit the ''joke'' command_
++ **Monday, 23 July 2018:** _Added a ''Prefix'' command_
++ **Monday, 23 July 2018:** _Added a ''Coffee'' command_
++ **Monday, 23 July 2018:** _Added a ''lick'' command_
++ **Monday, 23 July 2018:** _Added a ''lenny'' command_
++ **Monday, 23 July 2018:** _Added a ''pepe'' command_
++ **Monday, 23 July 2018:** _Added a ''randomavatar'' command_
++ **Monday, 23 July 2018:** _Added a ''animepic'' command_
+
 Some Commands the Bot have:
 ---------------------------
 
@@ -21,10 +34,6 @@ Some Commands the Bot have:
 `!doggo` - **Show's random pictures of Dogs**
 
 `!quiz` - **Some Questions you can answer**
-
-`!randomurban` - **Show's some random listings from the Urban Dictionary**
-
-`!urban [search words]` - **Show's listings from the Urban Dictionary**
 
 SUPPORT Commands
 ----------------
@@ -58,12 +67,12 @@ ADMIN Commands
 
 `!clear [any number]` - **Clear's the Chat**
 
+`!prefix [any prefix]` - **Set's a custom prefix**
+
 FUN Commands
 ------------
 
 `!kiss [@user]` - **Kissing the mentioned User**
-
-`!kill [@user]` - **Killing the mentioned User**
 
 `!hug [@user]` - **Hugging the mentioned User**
 
@@ -74,3 +83,17 @@ FUN Commands
 `!fmk [@user]` - **Fuck, Marry Kill**
 
 `!8ball [question]` - **Asking the Bot some questions**
+
+`!coffee` - **Drink some Coffee with the Bot*
+
+`!lick [@user]` - **Lick's the mentioned User**
+
+`!lenny` - **Send's a Lenny Face**
+
+`!pepe` - **Picture of Pepe**
+
+`!randomavatar` - **Show's random Avatar's for Discord & Steam**
+
+`!animepic` - **Show's random Anime Pictures**
+
+`!animegif` - **Show's random Anime GIFs**
