@@ -23,17 +23,18 @@ Lola Bot | Changelog
 + **Monday, 23 July 2018:** _Added a ''pepe'' command_
 + **Monday, 23 July 2018:** _Added a ''randomavatar'' command_
 + **Monday, 23 July 2018:** _Added a ''animepic'' command_
++ **Tuesday, 24 July 2018:** `!clear` got replaced by `!purge`
++ **Tuesday, 24 July 2018:** _Added 2 new commands: `!cookie` &' `!saiyan`_
++ **Wednesday, 25 July 2018:** _Added 1 new command: `!flip`_
 
-Some Commands the Bot have:
----------------------------
+UTILITY Commands
+----------------
 
 `!avatar [@user]` - **Show's the Avatar of the mentioned User**
 
 `!guildicon` - **Show's the Icon of the Server**
 
-`!doggo` - **Show's random pictures of Dogs**
-
-`!quiz` - **Some Questions you can answer**
+`!commands` - **Show's you the Commands List**
 
 SUPPORT Commands
 ----------------
@@ -65,7 +66,7 @@ ADMIN Commands
 
 `!setgame [any status, any game]` - **Set's the gaming status of the Bot**
 
-`!clear [any number]` - **Clear's the Chat**
+`!purge [any number]` - **Clear's the Chat**
 
 `!prefix [any prefix]` - **Set's a custom prefix**
 
@@ -84,7 +85,7 @@ FUN Commands
 
 `!8ball [question]` - **Asking the Bot some questions**
 
-`!coffee` - **Drink some Coffee with the Bot*
+`!coffee` - **Drink some Coffee with the Bot**
 
 `!lick [@user]` - **Lick's the mentioned User**
 
@@ -97,3 +98,13 @@ FUN Commands
 `!animepic` - **Show's random Anime Pictures**
 
 `!animegif` - **Show's random Anime GIFs**
+
+`!doggo` - **Show's random pictures of Dogs**
+
+`!quiz` - **Some Questions you can answer**
+
+`!cookie [@user]` - **Give someone a Cookie!**
+
+`!saiyan` - **Turn's you in a Super Saiyan**
+
+`!flip` - **Flips a Coin**
